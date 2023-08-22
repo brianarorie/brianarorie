@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brianarorie
+- 👋 Hi, I’m @brirorie
 - 👀 I’m interested in ...learning
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...anything i can
