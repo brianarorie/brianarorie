@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brirorie
-- 👀 I’m interested in ...learning
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...becoming a junior cloud engineer
+- 🌱 I’m currently learning ...how to use python, and boto3 with cloud9 and github
 - 💞️ I’m looking to collaborate on ...anything i can
 - 📫 How to reach me ...roriebriana@gmail.com
 
